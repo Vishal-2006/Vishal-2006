@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Blockchain Architecture • AI-Powered Smart Contract Security • Frontend Developer
+  Blockchain Architecture • Smart Contract Security • Frontend Developer
 </p>
 
 ---
