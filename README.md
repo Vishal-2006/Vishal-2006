@@ -20,8 +20,8 @@
 ## Core Skills
 
 ### Web3 / Blockchain Engineering
-- **Smart Contracts:** Solidity, Vyper, Hardhat, Foundry
-- **Ecosystems:** Ethereum (EVM), Solana (Anchor/Rust)
+- **Smart Contracts:** Solidity, Hardhat, Foundry
+- **Ecosystems:** Ethereum (EVM, Solidity)
 - **Security:** AI-powered auditing, vulnerability detection, Slither
 - **DeFi & Tooling:** Web3.js, Ethers.js, Wallet Integration (RainbowKit, Wagmi)
 
@@ -32,8 +32,8 @@
 
 ### Frontend & Backend
 - **Frameworks:** Next.js (App Router), React, TailwindCSS
-- **State Management:** TanStack Query, Redux
-- **Backend:** Node.js, FastAPI, PostgreSQL
+- **Data Layer:** IPFS(pinata),Ethereum
+- **Backend:** Node.js, REST API, PostgreSQL
 
 ---
 
@@ -65,8 +65,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-2006&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Vishal-2006&theme=tokyonight"/>
 </p>
 
 ---
