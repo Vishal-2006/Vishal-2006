@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  Blockchain Architecture • Smart Contract Security • Frontend Developer
+  Blockchain Architecture • Smart Contract Developer • Frontend Developer
 </p>
 
 ---
 
 ## About Me
 
-- **III Year AI & Data Science Student** at Ramco Institute of Technology 🎓
+- **Final Year AI & Data Science Student** at Ramco Institute of Technology 🎓
 - **Web3 & Blockchain Developer** building decentralized applications and security tools.
 - **AI Systems Builder** focused on smart contract auditing and crypto portfolio tracking.
 - Passionate about **Smart Contract Security**, high-performance DApps, and the Solana ecosystem.
@@ -28,12 +28,12 @@
 ### AI / Data Science
 - **ML for Security:** Building auditing models for smart contract threat detection.
 - **Data Preprocessing:** Handling large datasets for crypto analytics.
-- **Integrations:** Chainlink Oracles, Chainlink Runtime Environment (CRE).
+- **Integrations:** Chainlink Oracles.
 
 ### Frontend & Backend
 - **Frameworks:** Next.js (App Router), React, TailwindCSS
 - **Data Layer:** IPFS(pinata),Ethereum
-- **Backend:** Node.js, REST API, PostgreSQL
+- **Backend:** Node.js (Basic), REST API, PostgreSQL
 
 ---
 
@@ -55,7 +55,7 @@
 ## Projects
 
 - **Certifichain:** A decentralized certificate verification system built with Solidity and React.
-- **AI Smart Contract Auditor:** An automated tool using LLMs to scan for vulnerabilities in Solidity and Vyper code.
+- **AI Smart Contract Auditor:** An automated tool using LLMs to scan for vulnerabilities in Solidity code.
 - **Decentralized Voting DApp 2.0:** A privacy-focused voting system with an optimized UI/UX.
 - **Deriverse Dashboard:** A high-performance Solana-based analytics dashboard built with Next.js.
 - **Crypto Portfolio Tracker:** An AI-driven dashboard for tracking real-time asset performance.
